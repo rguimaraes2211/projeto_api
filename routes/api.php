@@ -13,3 +13,7 @@ Route::delete('/excluir_clientes/{id}', [CadastroClienteController::class, 'dest
 
 Route::get('/busca_cliente_id/{id}', [CadastroClienteController::class, 'show']);
 Route::post('/edita_cliente/{id}', [CadastroClienteController::class, 'update']);
+
+Route::get('/teste_api', function () {
+    return 'teste';
+});
