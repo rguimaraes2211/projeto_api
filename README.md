@@ -101,6 +101,6 @@ Este é um projeto desenvolvido em Laravel 11 que permite criar, editar e exclui
     php artisan serve
 
 # Desenvolvedor
-
-[<img src="https://avatars.githubusercontent.com/u/99806999?s=4" width=100 title="Rafael Guimaraes Carvalho">](https://github.com/rguimaraes2211)
+Rafael Guimarães Carvalho
+[<img src="https://avatars.githubusercontent.com/u/99806999?s=48&v=4" width=100 title="Rafael Guimaraes Carvalho">](https://github.com/rguimaraes2211)
 
